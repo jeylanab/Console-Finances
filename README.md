@@ -12,5 +12,5 @@ The program is designed to work with a 2D array of financial data. Replace the f
 array with your data to perform the analysis. The results are then displayed in the console. Example Output:
 
 ## Usage 
-
+![Alt Text]([image_url](https://github.com/jeylanab/Console-Finances/blob/main/Images/Screenshot%202023-12-30%20050616.png?raw=true)https://github.com/jeylanab/Console-Finances/blob/main/Images/Screenshot%202023-12-30%20050616.png?raw=true)
 
