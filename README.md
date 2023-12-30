@@ -9,6 +9,7 @@ in Profit/Losses.
 ## Installation
 
 Deployed Page link: https://jeylanab.github.io/Console-Finances/
+
 GitHub Repo Link: https://github.com/jeylanab/Console-Finances
  
 The program is designed to work with a 2D array of financial data. Replace the finances
