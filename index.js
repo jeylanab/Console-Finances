@@ -172,4 +172,6 @@ for (var i = 1; i < finances.length; i++) {
     }
 }
 
-console.log("Minimum decrease in Profit/Losses:",minDecreaseDate ,"($" ,minDecreaseAmount,")" );
+// display the value
+
+console.log(`Minimum decrease in Profit/Losses: ${minDecreaseDate} , $${minDecreaseAmount}` );
